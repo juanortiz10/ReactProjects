@@ -1,0 +1,18 @@
+.Player {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.Player-box {
+  display: flex;
+}
+
+.Player-left > img{
+  width: 200px;
+}
+
+.Player-right {
+  margin-left: 2%;
+}
